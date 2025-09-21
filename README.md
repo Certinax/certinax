@@ -1,15 +1,11 @@
-<h1 align="center">Hi, I'm Certinax 👋</h1>
-<p align="center">
+<h1>Hi, I'm Certinax 👋</h1>
+<p>
   <b>Software Engineer | Explorer of Best Practices | Tech Enthusiast</b>
 </p>
-
----
 
 ## 🚀 About Me
 
 I'm a software engineer working as a consultant with experience in large, heavy, and complex projects. Building long-lasting technologies with robust and maintainable solutions.
-
----
 
 ## 🛠️ Tech Stack
 
